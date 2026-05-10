@@ -6,7 +6,7 @@
 - 🛡️ **Defending:** Hardening systems and hunting 0-days.
 - 🏋️ **Training:** Preparing for my first Powerlifting Meet in 2027.
 - 🐈 **Staff:** Managing two cats who think they're my senior devs.
-- 📝 **Writing:** Sharing my research on Medium
+- 📝 **Writing:** Sharing my research on Medium<a href="https://medium.com/@micah_44192">📝 **Writing:** Sharing my research on Medium</a>
 ### 📊 Github Stats
 ![Micah's Stats](https://github-readme-stats.vercel.app/api?username=micahthesecguy&show_icons=true&theme=radical)
 
