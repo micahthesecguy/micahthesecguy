@@ -9,3 +9,4 @@
 
 ### 📊 Github Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=micahthesecguy&show_icons=true&theme=radical)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=micahthesecguy)](https://github.com/ryo-ma/github-profile-trophy)
