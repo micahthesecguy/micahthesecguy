@@ -1,11 +1,11 @@
-👋 Hi, I’m @micahthesecguy
+# 👋 Hi, I'm Micah | Security Engineer & Researcher
 
-🛡️ Vulnerability Researcher & Security Engineer
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Vulnerability+Researcher;Exploit+Developer;Powerlifting+Comp+2027)
 
-🔍 I’m currently hunting 0-days and hardening systems
+### 🛠️ The SOC & The Squat Rack
+- 🛡️ **Defending:** Hardening systems and hunting 0-days.
+- 🏋️ **Training:** Preparing for my first Powerlifting Meet in 2027.
+- 🐈 **Staff:** Managing two cats who think they're my senior devs.
 
-🤝 Looking to collaborate on open-source security tools and exploit dev
-
-📫 Reach me at micahodell5@gmail.com
-
-⚡ Fun fact: I spend my "off" time preparing for a Powerlifting Comp in 2027. If I can't break the encryption, I'll just try to break my deadlift PR.
+### 📊 Github Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=micahthesecguy&show_icons=true&theme=radical)
