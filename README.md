@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Vulnerability+Researcher;Exploit+Developer;Powerlifter;Cat+Dad)
 
-### 🛠️ The SOC & The Squat Rack
+### 🛠️ The SOC & The Gym 🙂‍↕️
 - 🛡️ **Defending:** Hardening systems and hunting 0-days.
 - 🏋️ **Training:** Preparing for my first Powerlifting Meet in 2027.
 - 🐈 **Staff:** Managing two cats who think they own my apartment.
