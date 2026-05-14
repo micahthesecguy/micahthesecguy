@@ -18,11 +18,11 @@
 ## 🎓 Professional Credentials
 
 | Status | Certification |
-| :--- | :--- | :--- |
-| ✅ **Active** | **CompTIA Security+** |
-| ✅ **Active** | **Cisco CCNA** |
-| 🛡️ **Advanced** | **CompTIA CySA+** |
-| ☁️ **Specialist** | **Microsoft SC-200** |
+| :--- | :--- |
+| ✅ **Obtained** | **CompTIA Security+** |
+| ✅ **Obtained** | **Cisco CCNA** |
+| ✅ **Obtained** | **CompTIA CySA+** |
+| ✅ **Obtained** | **Microsoft SC-200: Security Operations Analyst** |
 | 🎓 **In-Progress** | **ISC2 CISSP** |
 ---
 ### 🏋️ Current Training Cycles
