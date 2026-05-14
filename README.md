@@ -8,12 +8,14 @@
 - 🐈 **Staff:** Managing two cats who think they own my apartment.
 - 📝 **Writing:** <a href="https://medium.com/@micah_44192">Sharing my research on Medium</a>
 ## 🛠️ Tech Stack & My Tools
-| Field | Core Technologies |
+| Field | Technologies |
 | :--- | :--- |
-| **Audit & GRC** | ![Vanta/Drata](https://img.shields.io/badge/Compliance_Automation-7C3AED?style=flat-square) ![SOC 2](https://img.shields.io/badge/SOC_2_Type_II_Expert-lightgrey?style=flat-square) ![NIST CSF](https://img.shields.io/badge/NIST_CSF_2.0-005A9C?style=flat-square) |
-| **Cloud Governance** | ![Azure Entra](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![AWS IAM](https://img.shields.io/badge/AWS_IAM_Security-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Policy As Code](https://img.shields.io/badge/Azure_Policy_/_SCP-blue?style=flat-square) |
-| **Ops & Evidence** | ![Sentinel](https://img.shields.io/badge/Sentinel_SIEM-0078D4?style=flat-square) ![Python](https://img.shields.io/badge/Evidence_Scripts-3776AB?style=flat-square&logo=python&logoColor=white) ![Wiz](https://img.shields.io/badge/Wiz_Compliance-7C3AED?style=flat-square) |
-| **Credentials** | ![CISSP](https://img.shields.io/badge/ISC2-CISSP_Candidate-D4AF37?style=flat-square) ![CISA](https://img.shields.io/badge/ISACA-CISA_Study-green?style=flat-square) ![SC-100](https://img.shields.io/badge/MS-Cyber_Architect-00A4EF?style=flat-square) |
+| **Detection & SIEM** | ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![KQL](https://img.shields.io/badge/KQL_Expert-0078D4?style=flat-square) ![Splunk](https://img.shields.io/badge/Splunk_SPL-000000?style=flat-square&logo=splunk&logoColor=white) ![CrowdStrike](https://img.shields.io/badge/CrowdStrike_Falcon-ED1C24?style=flat-square&logo=crowdstrike&logoColor=white) |
+| **Network & Cloud** | ![Networking](https://img.shields.io/badge/Network_Security_(CCNA)-049FD9?style=flat-square&logo=cisco&logoColor=white) ![Azure](https://img.shields.io/badge/Azure_SecOps-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS_Security-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| **Ops & Automation** | ![Python](https://img.shields.io/badge/Python_Automation-3776AB?style=flat-square&logo=python&logoColor=white) ![Incident Response](https://img.shields.io/badge/Lead_IR_(CySA%2B)-D00000?style=flat-square) ![Tines](https://img.shields.io/badge/Tines_SOAR-000000?style=flat-square) |
+| **Lead & GRC** | ![SOC 2](https://img.shields.io/badge/SOC_2_Audit_Prep-lightgrey?style=flat-square) ![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK_Mapping-FF6600?style=flat-square) ![Risk Mgmt](https://img.shields.io/badge/Risk_Management-green?style=flat-square) |
+
+---
 ### 🏋️ Current Training Cycles
 | Focus | Goal | Status |
 | :--- | :--- | :--- |
