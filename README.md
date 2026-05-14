@@ -17,13 +17,13 @@
 
 ## 🎓 Professional Credentials
 
-| Status | Certification
+| Status | Certification | Focus |
 | :--- | :--- | :--- |
-| ✅ **Obtained** | **CompTIA Security+**
-| ✅ **Obtained** | **Cisco CCNA**
-| 🛡️ **Obtained** | **CompTIA CySA+**
-| ☁️ **Obtained** | **Microsoft SC-200**
-| 🎓 **In-Progress** | **ISC2 CISSP**
+| ✅ **Active** | **CompTIA Security+** | Baseline Security & DoD Compliance |
+| ✅ **Active** | **Cisco CCNA** | Enterprise Networking & Infrastructure |
+| 🛡️ **Advanced** | **CompTIA CySA+** | Incident Response & Threat Hunting |
+| ☁️ **Specialist** | **Microsoft SC-200** | Security Operations & Sentinel Engineering |
+| 🎓 **In-Progress** | **ISC2 CISSP** | Security Leadership & Risk Management |
 ---
 ### 🏋️ Current Training Cycles
 | Focus | Goal | Status |
